@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Saludos 👋
+Me llamo **Prócoro Juárez Luna**, estudiante en la carrera de Sistemas Computacionales
+🤔 Actualmente no se mucho de lenguajes de programación pero se más o menos como defenderme. 🤜
+Me gustan los *videojuegos* y ver *documentales de vida silvestre*. 🎮🐊
 <!--
 **ClumsyPan/ClumsyPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
